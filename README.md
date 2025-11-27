@@ -1,4 +1,4 @@
-# Multimodal Emotion Recognition Analytics Dashboard
+# Multimodal Emotion Recognition Analytics
 
 This repository contains a **single end-to-end notebook** and a **Power BI dashboard** for analyzing a multimodal emotion recognition model.
 
