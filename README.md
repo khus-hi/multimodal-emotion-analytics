@@ -52,9 +52,10 @@ Columns include:
 - `video_pred`, `video_conf`, `video_correct`
 - `fusion_pred`, `fusion_conf`, `fusion_correct`
 
-### `analytics/multimodel emotion1.png`
+### `analytics/multimodel emotion.png`
 PDF of the Power BI dashboard.
 
+Link: https://app.powerbi.com/view?r=eyJrIjoiNmVjM2RiMjEtMGM1Ni00ZGQwLThmOGYtNmUzZGRlMWFhMzlhIiwidCI6ImQ1N2QzMmNjLWMxMjEtNDg4Zi1iMDdiLWRmZTcwNTY4MGM3MSIsImMiOjN9
 ---
 
 ## 📊 Power BI Dashboard
